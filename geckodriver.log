@@ -1,0 +1,374 @@
+1664302728124	geckodriver	INFO	Listening on 127.0.0.1:58288
+1664302731156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58289" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilevkXepO"
+1664302731508	Marionette	INFO	Marionette enabled
+1664302731515	Marionette	INFO	Listening on port 58294
+WebDriver BiDi listening on ws://127.0.0.1:58289
+1664302731806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilevkXepO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58289/devtools/browser/be43e78a-036f-4799-a4cc-55c0d30d15c7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664302740667	Marionette	INFO	Stopped listening on port 58294
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664303083648	geckodriver	INFO	Listening on 127.0.0.1:58436
+1664303086699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58437" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilegGhPhE"
+1664303087186	Marionette	INFO	Marionette enabled
+1664303087192	Marionette	INFO	Listening on port 58445
+WebDriver BiDi listening on ws://127.0.0.1:58437
+1664303087316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilegGhPhE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58437/devtools/browser/a52bb278-85d1-46c4-a447-a18f86b12ba1
+1664303089032	Marionette	INFO	Stopped listening on port 58445
+1664303103746	geckodriver	INFO	Listening on 127.0.0.1:58459
+1664303106787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58460" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilejISWzn"
+1664303107263	Marionette	INFO	Marionette enabled
+1664303107270	Marionette	INFO	Listening on port 58465
+WebDriver BiDi listening on ws://127.0.0.1:58460
+1664303107390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilejISWzn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58460/devtools/browser/d29c501b-00a7-43cd-9ec4-651554bf9862
+1664303112829	Marionette	INFO	Stopped listening on port 58465
+1664303348303	geckodriver	INFO	Listening on 127.0.0.1:58565
+1664303351361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58566" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilewHHClf"
+1664303351898	Marionette	INFO	Marionette enabled
+1664303351906	Marionette	INFO	Listening on port 58571
+WebDriver BiDi listening on ws://127.0.0.1:58566
+1664303352546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilewHHClf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58566/devtools/browser/0e6a5ee7-7159-4ec9-a61c-deb2eed212fc
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1664303356746	Marionette	INFO	Stopped listening on port 58571
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\dujak\AppData\Local\Temp\rust_mozprofilewHHClf\protections.sqlite
+[Parent 3784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664303398934	geckodriver	INFO	Listening on 127.0.0.1:58617
+1664303401998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58618" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileAm6y4r"
+1664303402736	Marionette	INFO	Marionette enabled
+1664303402743	Marionette	INFO	Listening on port 58623
+WebDriver BiDi listening on ws://127.0.0.1:58618
+1664303403097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileAm6y4r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58618/devtools/browser/24ee10e9-9208-4500-b981-ce3fd3cd7c0e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1664304045233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58847" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilej4GLBq"
+1664304045726	Marionette	INFO	Marionette enabled
+1664304045732	Marionette	INFO	Listening on port 58853
+WebDriver BiDi listening on ws://127.0.0.1:58847
+1664304045847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilej4GLBq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58847/devtools/browser/b2165dd0-53a4-4886-8fd2-a778311877a4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664304368496	Marionette	INFO	Stopped listening on port 58853
+[Parent 17136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileq5dRTi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59066/devtools/browser/8024f905-063d-42f0-9ce1-71c30b5f4d0e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664313531216	Marionette	INFO	Stopped listening on port 59071
+1664392998006	geckodriver	INFO	Listening on 127.0.0.1:57667
+1664393001072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57668" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilexEJsXC"
+1664393001472	Marionette	INFO	Marionette enabled
+1664393001478	Marionette	INFO	Listening on port 57673
+WebDriver BiDi listening on ws://127.0.0.1:57668
+1664393001753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilexEJsXC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57668/devtools/browser/9c503a2f-0b2b-4f3c-bfff-8fb633c3c0bf
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664393133486	Marionette	INFO	Stopped listening on port 57673
+1664393173289	geckodriver	INFO	Listening on 127.0.0.1:57826
+1664393176318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57827" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileukUy6l"
+1664393176695	Marionette	INFO	Marionette enabled
+1664393176704	Marionette	INFO	Listening on port 57832
+WebDriver BiDi listening on ws://127.0.0.1:57827
+1664393177012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileukUy6l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57827/devtools/browser/c96f16fd-ad03-4c0f-8ca6-b4aea1d34731
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664393195933	Marionette	INFO	Stopped listening on port 57832
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664393198973	geckodriver	INFO	Listening on 127.0.0.1:57926
+1664393201995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57927" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilesGcdSe"
+1664393202363	Marionette	INFO	Marionette enabled
+1664393202370	Marionette	INFO	Listening on port 57935
+WebDriver BiDi listening on ws://127.0.0.1:57927
+1664393202679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilesGcdSe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57927/devtools/browser/abeb3f6e-e03f-4055-8835-b676d393530b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1664393741527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58141" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilePUgnDY"
+1664393741896	Marionette	INFO	Marionette enabled
+1664393741905	Marionette	INFO	Listening on port 58151
+WebDriver BiDi listening on ws://127.0.0.1:58141
+1664393742170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilePUgnDY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58141/devtools/browser/6f2c516a-8917-4321-a01e-6f2de45b6021
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664393810177	Marionette	INFO	Stopped listening on port 58151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664393813111	geckodriver	INFO	Listening on 127.0.0.1:58252
+1664393816137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58253" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileWaVU2G"
+1664393816511	Marionette	INFO	Marionette enabled
+1664393816518	Marionette	INFO	Listening on port 58258
+WebDriver BiDi listening on ws://127.0.0.1:58253
+1664393816816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileWaVU2G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58253/devtools/browser/9ed629c4-e791-4042-92ce-606f1a84cc61
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664394782168	Marionette	INFO	Stopped listening on port 58258
+ofile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileifEeyf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58388/devtools/browser/a9cf14f1-923a-4117-94d4-866f6b4caf52
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664393974055	Marionette	INFO	Stopped listening on port 58393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664394047517	geckodriver	INFO	Listening on 127.0.0.1:58488
+1664394050550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58489" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilei5wtwN"
+1664394050969	Marionette	INFO	Marionette enabled
+1664394050976	Marionette	INFO	Listening on port 58494
+WebDriver BiDi listening on ws://127.0.0.1:58489
+1664394051129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilei5wtwN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58489/devtools/browser/0cbb6f66-3102-4b07-9da4-ab79d6e709c7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664394782911	Marionette	INFO	Stopped listening on port 58494
+[Parent 4004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664394785803	geckodriver	INFO	Listening on 127.0.0.1:58770
+1664394788834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58771" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileIE4DEZ"
+1664394789208	Marionette	INFO	Marionette enabled
+1664394789213	Marionette	INFO	Listening on port 58776
+WebDriver BiDi listening on ws://127.0.0.1:58771
+1664394789516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileIE4DEZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58771/devtools/browser/1dc0519d-0742-4152-a80c-89d8cbdb8424
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664395097127	Marionette	INFO	Stopped listening on port 58776
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58891" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileYwQndH"
+1664394865552	Marionette	INFO	Marionette enabled
+1664394865559	Marionette	INFO	Listening on port 58896
+WebDriver BiDi listening on ws://127.0.0.1:58891
+1664394865894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileYwQndH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58891/devtools/browser/a9c18e83-f45a-467f-917c-16a4363f326b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664395387139	Marionette	INFO	Stopped listening on port 58896
+s://127.0.0.1:59048
+1664395103633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileW9LUDq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59048/devtools/browser/402ff2a2-5316-44a8-9158-a972ba6400ae
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664395386007	Marionette	I1664395386480	Marionette	INFO	Stopped listening on port 59156
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664395390938	geckodriver	INFO	Listening on 127.0.0.1:59279
+1664395393983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59280" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilecCahk7"
+1664395394517	Marionette	INFO	Marionette enabled
+1664395394528	Marionette	INFO	Listening on port 59285
+WebDriver BiDi listening on ws://127.0.0.1:59280
+1664395395283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofilecCahk7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59280/devtools/browser/6415b966-c5b0-41b6-93af-3079aebc659b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664396299584	Marionette	INFO	Stopped listening on port 59285
+1664396301955	geckodriver	INFO	Listening on 127.0.0.1:59565
+1664396304989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59566" "-no-remote" "-profile" "C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileL0gNOW"
+1664396305390	Marionette	INFO	Marionette enabled
+1664396305398	Marionette	INFO	Listening on port 59572
+WebDriver BiDi listening on ws://127.0.0.1:59566
+1664396305581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofileL0gNOW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59566/devtools/browser/a71b52ed-a7cd-452b-912b-7c86583e551c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 569))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1004))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967309/pagestyle22 (resource://devtools/server/actors/page-style.js:569:5)", "resource://devtools/shared/protocol/Front.js", 384))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967309/pagestyle22 (resource://devtools/server/actors/page-style.js:1004:5)", "resource://devtools/shared/protocol/Front.js", 384))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664396905765	Marionette	INFO	Stopped listening on port 59572
+s://127.0.0.1:59766
+1664396536284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dujak\\AppData\\Local\\Temp\\rust_mozprofile46iX1P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59766/devtools/browser/5814a3d0-313c-4d3c-9edb-118d388082d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664402926101	Marionette	INFO	Stopped listening on port 59771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
