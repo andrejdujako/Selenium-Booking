@@ -16,4 +16,4 @@ with Booking() as bot:
     bot.select_adults(4, 0, 3)
     bot.click_search()
     bot.sort_button()
-
+    bot.apply_filters()

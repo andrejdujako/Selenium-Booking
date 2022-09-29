@@ -12,7 +12,7 @@ class BookingFiltration:
 
     def apply_star_rating(self):
         four_stars_button = self.driver.find_element(By.CSS_SELECTOR, 'input[name = "class=4"]')
-        four_stars_button.driver.click()
+        four_stars_button.click()
 
     #     To identify the child elements of a selected element we use:
 
