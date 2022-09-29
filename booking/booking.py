@@ -3,6 +3,8 @@ import os, time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from . booking_filtration import BookingFiltration
+from . booking_report import BookingReport
+from prettytable import PrettyTable
 
 
 class Booking(webdriver.Firefox):
@@ -77,14 +79,16 @@ class Booking(webdriver.Firefox):
         # search_button = self.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         # search_button.click()
 
-    def sort_button(self):
-        sort_button_element = self.find_element(By.CSS_SELECTOR, 'button[data-testid="sorters-dropdown-trigger"]')
-        sort_button_element.click()
-        price_lowest_button = self.find_element(By.CSS_SELECTOR, 'button[data-id="price"]')
-        price_lowest_button.click()
-
     def apply_filters(self):
         filters = BookingFiltration(driver=self)
         # We pass the webdriver we use to the other class used for filters
-        filters.apply_star_rating()
+        filters.sort_lowest()
+        filters.apply_star_rating(3, 4)
+
+    def get_results(self):
+        report = BookingReport(driver=self)
+        table = PrettyTable(field_names=["Name", "Price", "Score"])
+        table.add_rows(report.get_attributes())
+        # It's good to pass a nested list like we have already
+        print(table)
 

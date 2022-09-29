@@ -1,1 +1,7 @@
 BASE_URL = "https://www.booking.com"
+DESTINATION = "Ohrid"
+CHECK_IN_DATE = "2022-09-29"
+CHECK_OUT_DATE = "2022-10-10"
+ADULTS = 2
+CHILDREN = 0
+ROOMS = 1
